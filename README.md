@@ -131,7 +131,7 @@ Open `http://localhost:5173` in your browser.
 
 ## About
 
-Developed by **Clóvis Oliveira, Darliane Cunha and Vitor Santos** as part of a port emissions monitoring platform.
+The platform was developed by **Darliane Cunha**. The emissions calculation methodology was developed by **Clóvis Oliveira, Darliane Cunha and Vitor Santos**.
 
 This public module is part of a broader system for **unit-based emissions registration per vessel call**, which includes per-vessel tracking, integration with port operational data, and report generation for CSRD, GRI, and IMO regulatory compliance.
 
