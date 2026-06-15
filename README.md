@@ -2,7 +2,7 @@
 
 > Port stay emissions: Auxiliary Engine (OPS) · Manoeuvring · Boiler
 
-[Live demo](https://www.decarbport.com/)
+[![Live](https://img.shields.io/badge/status-live-success)](https://www.decarbport.com/)
 [![Methodology](https://img.shields.io/badge/Methodology-IMO%20GHG%20Study%202020-blue)](https://www.imo.org)
 [![Standard](https://img.shields.io/badge/Standard-MEPC.282(70)-green)](https://www.imo.org)
 
